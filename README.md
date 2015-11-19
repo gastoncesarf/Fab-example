@@ -1,5 +1,5 @@
 # Floating Action Button
-This is an example of "Floating Action Button" for Android, follow this on **[stackoverflow](http://stackoverflow.com/questions/26229065/animated-transition-between-fragments-slide-effect-translucent-statusbar-and)**
+This is an example of "Floating Action Button" for Android, follow this on **[stackoverflow](http://stackoverflow.com/questions/31364090/fab-transparent-layer-does-not-block-the-parent-layer)**
 
 # Screenshots
 ![Screen-1](http://i.stack.imgur.com/32Hav.png) ![Screen-2](http://i.stack.imgur.com/NNkzh.png) ![Screen-2](http://i.stack.imgur.com/3KEgM.png)
